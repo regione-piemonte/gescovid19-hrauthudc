@@ -1,0 +1,3 @@
+[data-itemtype="grid_field"][data-default-width] > * > * > .form-control {
+    min-width: 4em;
+}
